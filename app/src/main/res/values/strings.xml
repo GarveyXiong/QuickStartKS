@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">QuickStartKS</string>
+    <string name="app_title">Quick Pay</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="trans_amount_input">Amount</string>
+    <string name="trans_amount">Amount</string>
+    <string name="text_transaction">Transaction</string>
+    <string name="trans_present">Present the card</string>
+
+    <string name="trans_order_num">Order Num： </string>
+    <string name="trans_order_time">Order Time： </string>
+    <string name="text_trans_amount">Trans Amount： </string>
+    <string name="trans_result_success">Success</string>
+    <string name="trans_result_failed">Failed</string>
+    <string name="trans_result_timeout">Timeout</string>
+    <string name="trans_result_print">Print the receipt</string>
+    <string name="trans_result_wait">Waiting for payment...</string>
+    <string name="trans_result_card_num">Card Number:  </string>
+    <string name="trans_result_customer">Customer ID:  </string>
+    <string name="trans_result_amount">Trans Amount:  </string>
+    <string name="trans_select_app">Select Application</string>
+    <string name="trans_second_tap">Second Tap Card</string>
+    <string name="trans_online_auth">Online Authorizing...</string>
+    <string name="trans_user_cancel">User Cancel</string>
+    <string name="trans_contact">Contact Card Trans</string>
+    <string name="trans_contactless">Contactless Card Trans</string>
+    <string name="trans_magstripe">Magstripe Card Trans</string>
+    <string name="pinpad_security_check">The terminal triggers a security check.</string>
+    <string name="pinpad_no_key">The terminal did not write the PIN key. Please check.</string>
+    <string name="init_success">Init Success</string>
+    <string name="init_successful">Transaction encryption has been successfully initiated.</string>
+    <string name="init_fail">Init Failed</string>
+    <string name="init_failed">Transaction encryption initiated failed, please retry.</string>
+    <string name="toast_trans_error">startTransaction exception error</string>
+    <string name="toast_encrypt_error">startTransaction encrypt error</string>
+    <string name="trans_amount_hint">Amount</string>
+    <string name="trans_special_magstripe">SPECIAL_MAGSTRIPE</string>
+    <string name="pin_online_pin">Online PIN</string>
+    <string name="pin_offline_pin">Offline PIN</string>
+    <string name="text_pin">PIN </string>
+    <string name="pin_count_last">PIN Last Times</string>
+    <string name="print_title">「WELCOME TO USE KOZEN PRODUCTS」</string>
+    <string name="print_addr">LONG DONG AVENUE - Pudong New\n District - Shanghai - China</string>
+    <string name="print_amount">QTY</string>
+    <string name="print_items">ITEMS</string>
+    <string name="print_itl">ITL</string>
+    <string name="print_lasagna">LASAGNA</string>
+    <string name="print_ossl">OSSL BUCO</string>
+    <string name="print_margrits">MARGHERITA PIZZA</string>
+    <string name="print_total">TOTAL:</string>
+    <string name="print_card_num">CARD NUMBER:</string>
+    <string name="print_card_id">CUSTOMER ID:</string>
+    <string name="print_card_name">Wengxin Chen</string>
+    <string name="print_approved">APPROVED-PURCHASE</string>
+    <string name="print_amount82">AMOUNT:82.97</string>
+    <string name="print_time">07/01/2025 14:37</string>
+    <string name="print_leader">KOZEN\nTO LEAD TO WORK WITH LEADER</string>
+    <string name="print_introduce">KOZEN, a tech brand specializing in electronic payments, is dedicated to delivering top-notch user experiences with smart POS solutions.</string>
+    <string name="print_website">www.kozenenterprise.com</string>
+    <string name="print_thanks">THANK YOU FOR VISITING!</string>
+
+    //-------Sub-Screen------------
+    <string name="sub_trans_amount_content">Trans Amount</string>
+    <string name="sub_trans_amount">Trans Amount :</string>
+    <string name="sub_screen_unavailable">Sub-screen service is unavailable</string>
+    <string name="waiting_customer_operation">Waiting for customer operation</string>
+
+    <string name="sub_trans_bank_card">Bank Card</string>
+    <string name="sub_trans_pay_code">Payment Code</string>
+    <string name="sub_usd">USD</string>
+    <string name="sub_eur">EUR</string>
+    <string name="sub_trans_qr">Please show your payment code</string>
+    <string name="sub_trans_qr_tip">Please place your payment code above the camera.</string>
+    <string name="sub_trans_bank_tip">Please make payment using your bank card.</string>
+    <string name="sub_trans_payent_code">payment code</string>
+    <string name="sub_trans_fail">Payment failed!</string>
+    <string name="sub_trans_success">Payment success!</string>
+    <string name="sub_trans_timeout">Payment timeout!</string>
+    <string name="sub_trans_bank_wait">Waiting for customer operation</string>
+    <string name="zxing_msg_default_status"> </string>
+
+
+
+    <string name="sub_trans_enterpin">Please enter the PIN</string>
+    <string name="sub_trans_waitpin">Waiting customer input the PIN</string>
+    <string name="sub_trans_code_tip">Please scan the Qr code.</string>
+    <string name="sub_trans_code_tip3">Waiting customer scan Qr code.</string>
+    <string name="sub_trans_code_tip2">Scan the Qr code.</string>
+    <string name="sub_trans_net">Please connect to the network</string>
+    <!--    <string name="app_name">QuickStart</string>-->
+    <!--    <string name="app_name">QuickStart</string>-->
+    <!--    <string name="app_name">QuickStart</string>-->
+    <!--    <string name="app_name">QuickStart</string>-->
+    <!--    <string name="app_name">QuickStart</string>-->
+</resources>

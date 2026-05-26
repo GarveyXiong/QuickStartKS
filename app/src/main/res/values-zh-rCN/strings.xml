@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (C) 2018 XCHENG HOLDING Co.,Ltd -->
+
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">QuickPay</string>
+    <string name="app_title">Quick Pay</string>
+    <string name="text_cancel">取消支付</string>
+    <string name="trans_amount_input">请输入支付金额</string>
+    <string name="trans_amount">支付金额</string>
+    <string name="text_transaction">去支付</string>
+    <string name="trans_present">请使用银行卡支付</string>
+
+    <string name="trans_order_num">订单号： </string>
+    <string name="trans_order_time">订单时间： </string>
+    <string name="text_trans_amount">支付金额</string>
+
+    <string name="trans_result_success">支付成功</string>
+    <string name="trans_result_failed">支付失败</string>
+    <string name="trans_result_timeout">支付超时</string>
+    <string name="trans_result_print">打印小票</string>
+    <string name="trans_result_wait">正在处理交易，请等待...</string>
+    <string name="trans_result_card_num">支付卡号:  </string>
+    <string name="trans_result_customer">支付账号:  </string>
+    <string name="trans_result_amount">支付金额:  </string>
+    <string name="trans_select_app">选择应用</string>
+    <string name="trans_second_tap">二次贴卡</string>
+    <string name="trans_online_auth">联网认证中...</string>
+    <string name="trans_user_cancel">取消支付</string>
+    <string name="trans_contact">接触卡交易</string>
+    <string name="trans_contactless">非接卡交易</string>
+    <string name="trans_magstripe">磁条卡交易</string>
+    <string name="pinpad_security_check">终端触发安全检查</string>
+    <string name="pinpad_no_key">终端未写入密钥</string>
+    <string name="init_success">初始化成功</string>
+    <string name="init_successful">交易初始化成功</string>
+    <string name="init_fail">初始化失败</string>
+    <string name="init_failed">交易初始化失败，请重试</string>
+    <string name="toast_trans_error">交易启动异常</string>
+    <string name="toast_encrypt_error">交易加密异常</string>
+    <string name="trans_amount_hint">交易金额</string>
+    <string name="trans_special_magstripe">支持磁条卡交易</string>
+    <string name="pin_online_pin">在线输密</string>
+    <string name="pin_offline_pin">离线输密</string>
+    <string name="text_pin">输密次数 </string>
+    <string name="pin_count_last">最后一次输密</string>
+    <string name="print_title">「欢迎使用KOZEN产品」</string>
+    <string name="print_addr">浦东新区-龙东大道3000号\n 中国-上海</string>
+    <string name="print_amount">数量</string>
+    <string name="print_items">商品</string>
+    <string name="print_itl">价格</string>
+    <string name="print_lasagna">卤汁面</string>
+    <string name="print_ossl">小牛肘</string>
+    <string name="print_margrits">玛格丽塔披萨</string>
+    <string name="print_total">共计：</string>
+    <string name="print_card_num">银行卡号：</string>
+    <string name="print_card_id">用户姓名：</string>
+    <string name="print_card_name">陈雯心</string>
+    <string name="print_approved">购买成功</string>
+    <string name="print_amount82">支付金额：82.97</string>
+    <string name="print_time">07/01/2025 14:37</string>
+    <string name="print_leader">KOZEN\n智能POS的引领者</string>
+    <string name="print_introduce">KOZEN，一个专注于电子支付的科技品牌，致力于通过智能POS解决方案提供卓越的用户体验。</string>
+    <string name="print_website">www.kozenenterprise.com</string>
+    <string name="print_thanks">感谢您的光临！</string>
+
+    //-------Sub-Screen------------
+    <string name="sub_trans_amount_content">交易金额</string>
+    <string name="sub_trans_amount">交易金额 :</string>
+    <string name="sub_screen_unavailable">副屏服务不可用</string>
+    <string name="waiting_customer_operation">等待用户操作</string>
+
+    <string name="sub_trans_bank_card">银行卡</string>
+    <string name="sub_trans_pay_code">付款码</string>
+    <string name="sub_usd">美元</string>
+    <string name="sub_eur">欧元</string>
+    <string name="sub_trans_qr">请出示付款码</string>
+    <string name="sub_trans_qr_tip">请将付款码放在摄像头上方</string>
+    <string name="sub_trans_bank_tip">请用银行卡付款</string>
+    <string name="sub_trans_payent_code">付款码</string>
+    <string name="sub_trans_fail">支付失败</string>
+    <string name="sub_trans_success">支付成功</string>
+    <string name="sub_trans_timeout">支付超时</string>
+    <string name="zxing_msg_default_status"> </string>
+    <string name="sub_trans_enterpin">请输入密码</string>
+    <string name="sub_trans_waitpin">等待客户输入密码</string>
+    <string name="sub_trans_code_tip">请扫描支付二维码</string>
+    <string name="sub_trans_code_tip2">扫描支付二维码</string>
+    <string name="sub_trans_net">请先连接网络</string>
+</resources>
