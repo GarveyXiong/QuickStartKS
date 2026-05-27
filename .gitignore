@@ -22,6 +22,10 @@ apk/
 /app/release
 /app/build
 
+# Keep dependency libraries under app/libs
+!app/libs/*.aar
+!app/libs/*.jar
+
 # Archives
 *.rar
 *.zip
